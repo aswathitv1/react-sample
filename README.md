@@ -1,4 +1,3 @@
 # react-sample
-hello dear
-new commit in branch2
-
+commit in branch1
+branch1 changes
