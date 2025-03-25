@@ -1,4 +1,2 @@
 console.log('check for main')
-
-// check for MediaDeviceInfo
-// hi hello
+//Made changes in merge branch for check
